@@ -1,0 +1,17 @@
+.image{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    object-fit: cover; 
+    border:2px solid rgba(247, 222, 0, 0.771);
+     
+
+}
+.body-design{
+    align-items: center;
+    display:flex;
+    margin:0;
+    height: 300px;
+    padding:2px;
+    justify-content: center;
+}
