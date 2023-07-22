@@ -18,19 +18,12 @@
     border:2px solid rgba(229, 145, 10, 0.945);
    
 }
-lbody{
-    background-size: cover;
-        background-image: url('background.jpg');
-        background-repeat: no-repeat;
-        background-size:cover;
-        background-attachment: fixed;
-        height:500px;
-}
 .faria{
     color:chocolate;
 }
 .main{
-    color:#00008B
+    color:#00008B;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 .second{
     height:10px;
